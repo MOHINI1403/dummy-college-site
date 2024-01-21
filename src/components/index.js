@@ -1,0 +1,6 @@
+export {default as AboutSection} from "./AboutSection"
+export {default as AdminSection} from "./AdminSection"
+export {default as ContactSection} from "./ContactSection"
+export {default as HomePage} from "./HomePage"
+export {default as ProjectUpload} from "./ProjectUpload"
+export {default as StudentSection} from "./StudentSection"
